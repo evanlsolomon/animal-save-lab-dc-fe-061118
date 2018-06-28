@@ -12,6 +12,6 @@ html {
 
 @media screen and (min-width:1180px) {
   #ostrich{
-    right:300px;
+    top:-50px;
   }
 }
